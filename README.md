@@ -1,11 +1,5 @@
 # Biblioteca Virtual - Aplicativo Mobile
 
-## Integrantes
-
-* João Victor Michaeli - Rm: 555678
-* Henrique Garcia      - Rm: 558062
-* Larissa Mezencio     - Rm: 557197
-
 ## Link do video de funcionamento
 
 * https://youtu.be/2kXPFVHqRqk
